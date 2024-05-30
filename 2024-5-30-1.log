@@ -1,0 +1,34 @@
+[30May2024 12:10:15.007] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, gefnuw, --version, 1.18.2-forge-40.2.9, --gameDir, C:\Users\thecr\AppData\Roaming\.minecraft, --assetsDir, C:\Users\thecr\AppData\Roaming\.minecraft\assets, --assetIndex, 1.18, --uuid, 5572242b60284db29496d3769e7f9ba1, --accessToken, ????????, --clientId, Njk5YWQzZjktMTZhMy00NDUzLTgzNDgtNmVkZTI3NmQwY2Qz, --xuid, 2535422610917836, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.9, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[30May2024 12:10:15.038] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[30May2024 12:10:16.371] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[30May2024 12:10:16.382] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/thecr/AppData/Roaming/.minecraft/mods/OptiFine_1.18.2_HD_U_H9.jar%2354!/
+[30May2024 12:10:16.390] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\thecr\AppData\Roaming\.minecraft\mods\OptiFine_1.18.2_HD_U_H9.jar
+[30May2024 12:10:16.402] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[30May2024 12:10:16.788] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/thecr/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[30May2024 12:10:16.805] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[30May2024 12:10:17.572] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\thecr\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.9\fmlcore-1.18.2-40.2.9.jar is missing mods.toml file
+[30May2024 12:10:17.611] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\thecr\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.9\javafmllanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[30May2024 12:10:17.642] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\thecr\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.9\lowcodelanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[30May2024 12:10:17.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\thecr\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.9\mclanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[30May2024 12:10:18.357] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[30May2024 12:10:19.442] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[30May2024 12:10:19.458] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 360
+[30May2024 12:10:20.968] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[30May2024 12:10:21.453] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30May2024 12:10:21.462] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
+[30May2024 12:10:21.489] [main/ERROR] [mixin/]: Mixin config rustediron-common.mixins.json does not specify "minVersion" property
+[30May2024 12:10:21.491] [main/ERROR] [mixin/]: Mixin config rustediron.mixins.json does not specify "minVersion" property
+[30May2024 12:10:21.534] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.18.2-forge-40.2.9, --gameDir, C:\Users\thecr\AppData\Roaming\.minecraft, --assetsDir, C:\Users\thecr\AppData\Roaming\.minecraft\assets, --uuid, 5572242b60284db29496d3769e7f9ba1, --username, gefnuw, --assetIndex, 1.18, --accessToken, ????????, --clientId, Njk5YWQzZjktMTZhMy00NDUzLTgzNDgtNmVkZTI3NmQwY2Qz, --xuid, 2535422610917836, --userType, msa, --versionType, release]
+[30May2024 12:10:22.433] [main/WARN] [mixin/]: Reference map 'rusted-iron-FORGE-forge-refmap.json' for rustediron.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2024 12:10:24.142] [main/WARN] [mixin/]: Error loading class: mezz/jei/common/transfer/RecipeTransferUtil (java.lang.ClassNotFoundException: mezz.jei.common.transfer.RecipeTransferUtil)
+[30May2024 12:10:24.142] [main/WARN] [mixin/]: @Mixin target mezz.jei.common.transfer.RecipeTransferUtil was not found polymorph_integrations.mixins.json:jei.MixinRecipeTransferUtil
+[30May2024 12:10:24.153] [main/WARN] [mixin/]: Error loading class: me/shedaniel/rei/RoughlyEnoughItemsCoreClient (java.lang.ClassNotFoundException: me.shedaniel.rei.RoughlyEnoughItemsCoreClient)
+[30May2024 12:10:24.154] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftblibrary/FTBLibraryClient (java.lang.ClassNotFoundException: dev.ftb.mods.ftblibrary.FTBLibraryClient)
+[30May2024 12:10:24.154] [main/WARN] [mixin/]: Error loading class: com/replaymod/replay/ReplayHandler (java.lang.ClassNotFoundException: com.replaymod.replay.ReplayHandler)
+[30May2024 12:10:24.156] [main/WARN] [mixin/]: Error loading class: dev/latvian/kubejs/entity/EntityJS (java.lang.ClassNotFoundException: dev.latvian.kubejs.entity.EntityJS)
+[30May2024 12:10:24.157] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/entity/EntityJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.entity.EntityJS)
+[30May2024 12:10:24.191] [main/WARN] [mixin/]: Error loading class: net/coderbot/iris/pipeline/newshader/ExtendedShader (java.lang.ClassNotFoundException: net.coderbot.iris.pipeline.newshader.ExtendedShader)
+[30May2024 12:10:24.192] [main/WARN] [mixin/]: Error loading class: net/irisshaders/iris/pipeline/programs/ExtendedShader (java.lang.ClassNotFoundException: net.irisshaders.iris.pipeline.programs.ExtendedShader)
+[30May2024 12:10:24.197] [main/WARN] [mixin/]: Error loading class: yesman/epicfight/client/renderer/patched/entity/PatchedLivingEntityRenderer (java.lang.ClassNotFoundException: yesman.epicfight.client.renderer.patched.entity.PatchedLivingEntityRenderer)
+[30May2024 12:10:25.231] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.1).
+[30May2024 12:10:28.677] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in werewolves.mixins.json:MobEffectInstanceAccessor, previously written by de.teamlapen.vampirism.mixin.MixinEffectInstance. Skipping method.
